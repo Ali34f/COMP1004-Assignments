@@ -1,0 +1,11 @@
+main {
+	padding: 2rem 0;
+}
+.container {
+	max-width: 640px;
+	margin: auto;
+}
+footer {
+	margin-top: 2rem;
+}
+
