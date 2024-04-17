@@ -37,9 +37,6 @@ The Password Generator Manager is a web-based application that enables users to 
 5) Push to the branch (git push origin your-feature).
 6) Open a new Pull Request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 
 ### Additional Notes:
 - Ensure all dependencies, such as CryptoJS, are correctly referenced in your project files or included via CDN if you use functions that require external libraries.
