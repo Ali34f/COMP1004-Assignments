@@ -20,7 +20,7 @@ The Password Generator Manager is a web-based application that enables users to 
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator-manager.git
+   git clone https://github.com/Ali34f/COMP1004-Assignments
 
 ## Usage Instructions
 -Adjust the desired password criteria using the interactive form.
@@ -41,5 +41,3 @@ The Password Generator Manager is a web-based application that enables users to 
 ### Additional Notes:
 - Ensure all dependencies, such as CryptoJS, are correctly referenced in your project files or included via CDN if you use functions that require external libraries.
 - Update repository URLs and any specific project details in the README as necessary. 
-
-This README should be placed in the root of your project directory and pushed to your GitHub repository to provide clear documentation for any potential users or contributors.
